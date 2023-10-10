@@ -3,7 +3,7 @@
 body {
   font-family: 'Georgia', serif;
   font-weight: 400;
-  background: #dfd4bd;
+  background: #fff;
 }
 
 img {
@@ -54,4 +54,13 @@ img {
   gap: 10px;
   color: #2d2126;
   padding-left: 20px;
+}
+
+.cat-card {
+  display: flex;
+  gap: 50px;
+}
+
+.cat-description {
+  width: 500px;
 }
